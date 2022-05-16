@@ -1,4 +1,4 @@
-FROM ghcr.io/rootalt/anus:latest
+FROM ghcr.io/hsjsa/hekoru:abuser
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
